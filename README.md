@@ -17,7 +17,7 @@ Install bettercap with apt.I recommend to use version bettercap v2.23.
 
 ## Execution Steps
 
-Caplet file from this [Link](https://www.mediafire.com/file/7q7vszdujqeydth/spoof.cap/file) , open it and add victim's IP address and domain name you want to spoof. And store it in root directory.
+Download caplet file from this [Link](https://www.mediafire.com/file/7q7vszdujqeydth/spoof.cap/file) , open it and add victim's IP address and domain name you want to spoof. And store it in root directory.
 
 ```bash
   bettercap -iface <name-of-wifi-adapter> -caplet /root/spoof.cap
